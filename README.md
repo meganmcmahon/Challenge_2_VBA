@@ -1,11 +1,11 @@
-# Challenge_2_VBA
-Module 2 Challenge 
-
-
-Overview of Project
+# Module 2 Challenge 
+ 
+## Overview of Project
 The purpose and background are well defined (2 pt).
-Results
+
+## Results
 The analysis is well described with screenshots and code (4 pt).
-Summary
+
+## Summary
 There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
 There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
